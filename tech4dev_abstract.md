@@ -75,5 +75,3 @@ While this study evaluates MyWell's use in 2 watersheds in rural India, MyWell i
 The value of data collected by MyWell also has considerable network effects, hence scaling up the number of watersheds monitored by MyWell will increase the value of information delivered by MyWell. The more insights to be gained from MyWell, the more valuable the information gathered is, and the more insights for data-driven action it can deliver across multiple stakeholder levels.
 
 MyWell is primarily targeted to smallholder farmers, but the insights it delivers can be used across many levels of groundwater management, from other researchers to policy makers. We would see MyWell expand its features and integrations with other platforms to allow for other groundwater stakeholders to glean insights from MyWell.
-
-Beyond groundwater, we also see potential for the MyWell approach to be applied to other resource-scarce environments. eg.?
